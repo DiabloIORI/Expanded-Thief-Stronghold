@@ -163,7 +163,7 @@ In addition to the methods above for removing individual components, you can com
 
 #### Special Acknowledgements to:
 
-- <a href="http://www.spellholdstudios.net/">Spellhold Studios</a> team for hosting the mod (<a href="http://www.shsforums.net">Forums</a>).
+- <a href="https://www.shsforums.net/">Spellhold Studios</a> team for hosting the mod.
 - Gebhard Blucher, where ever you are, for creating this mod!
 - Leomar, for having maintained it for so many years.
 - Native EE compatibility: Gwendolyne.
